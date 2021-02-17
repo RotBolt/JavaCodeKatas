@@ -8,4 +8,4 @@ Solved Katas so far
   -> [Solution](/fizzbuzz)
 
 - [BankOCR](https://codingdojo.org/kata/BankOCR/)
-  -> [Solution](/bankcodecr)
+  -> [Solution](/barcodeocr)
