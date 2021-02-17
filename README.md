@@ -5,7 +5,7 @@ This is where I put my solutions to code katas from [CodingDojo](https://codingd
 
 Solved Katas so far
 - [FizzBuzz](https://codingdojo.org/kata/FizzBuzz/)
-  [Solution](/fizzbuzz)
+  -> [Solution](/fizzbuzz)
 
 - [BankOCR](https://codingdojo.org/kata/BankOCR/)
-  [Solution](/bankcodecr)
+  -> [Solution](/bankcodecr)
